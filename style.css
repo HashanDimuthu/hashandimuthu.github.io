@@ -78,6 +78,15 @@ header{
     text-align: center;
 }
 
+header img{
+    height:17rem;
+    width:17rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border:.7rem solid black;
+}
+
 header .logo{
     text-transform: uppercase;
     color: black;
